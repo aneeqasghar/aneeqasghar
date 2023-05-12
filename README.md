@@ -1,5 +1,9 @@
 <h3>Hi there 👋</h3>
+<h2>I am working as a Full Stack Developer</h2>
 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aneeqasghar"/></a>
+</p>
 <!--
 **aneeqasghar/aneeqasghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
