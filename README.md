@@ -42,7 +42,7 @@ Languages and Tools:
 <img align="left" alt="circleci" height="32" width="32" src="https://cdn.simpleicons.org/circleci/343434" style="padding-right:10px;" />
 
 
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aneeqasghar"/></a>
