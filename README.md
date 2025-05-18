@@ -36,7 +36,6 @@ Languages and Tools:
 <img align="left" alt="amazonsimpleemailservice" height="32" width="32" src="https://cdn.simpleicons.org/amazonsimpleemailservice/DD344C" style="padding-right:10px;" />
 <img align="left" alt="amazonelasticache" height="32" width="32" src="https://cdn.simpleicons.org/amazonelasticache/C925D1" style="padding-right:10px;" />
 <img align="left" alt="amazoncloudwatch" height="32" width="32" src="https://cdn.simpleicons.org/amazoncloudwatch/C925D1" style="padding-right:10px;" />
-<img align="left" alt="amazonroute53" height="32" width="32" src="https://cdn.simpleicons.org/amazonroute53/8C4FFF" style="padding-right:10px;" />
 <img align="left" alt="amazonecs" height="32" width="32" src="https://cdn.simpleicons.org/amazonecs/FF9900" style="padding-right:10px;" />
 <img align="left" alt="awslambda" height="32" width="32" src="https://cdn.simpleicons.org/awslambda/FF9900" style="padding-right:10px;" />
 <img align="left" alt="circleci" height="32" width="32" src="https://cdn.simpleicons.org/circleci/343434" style="padding-right:10px;" />
